@@ -1,0 +1,24 @@
+div
+{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+#reg
+{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    font-size: 48px;
+}
+form
+{
+    text-align: center;
+}
+body
+{
+    background-color: pink;
+    font-size: 36px;
+}
+#submit
+{
+    font-size: 36px;
+}
